@@ -1,46 +1,54 @@
-# Getting Started with Create React App
+# Team Name
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NullPointerException
 
-## Available Scripts
+>our team name comes from a Java Exception which is called  : "NullPointerException"
+>which is usually been seen in a Java program
+>and half of our team partner have the experience in Java Programing
+>so we use this Exception information as our team name
+>maybe is meaningless but it is funny so ...
 
-In the project directory, you can run:
+## About Team
 
-### `yarn start`
+to be continue...
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## About Us
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**TeamLeader** :
+天各一方 : 王林凯 Android developer
 
-### `yarn test`
+Partner:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lqxc(令其响彻) : 柴博文 web developer
+lwsy : 宋冰烊 web developer
+李子李 : 李碧琪 server side developer
 
-### `yarn build`
+## how to contact us
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Team Leader :
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+天各一方 : 王林凯
+Tencent QQ : 924150590
+Tencent WeChat : wlk924150590
+github : [NI-MING](https://github.com/NI-MING)
+email : 924150590@qq.com
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+李子李 : 李碧琪
+Tencent QQ : 772858741
+Tencent WeChat : LBQ772858741
+github:[libiqi123](https://github.com/libiqi123)
+email : 77285874@qq.com
 
-### `yarn eject`
+lwsy : 宋冰烊
+Tencent QQ : 1290504514
+Tencent WeChat : lwsy129050451495
+gitee : [lwsy](https://gitee.com/lwsys)
+email : 1290504514@qq.com
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Lqxc(令其响彻) : 柴博文
+Tencent QQ : 2953159616
+Tencent WeChat : fallendowntonight
+github : [lovebaihezi](https://github.com/lovebaihezi)
+email : x18739168862@gmail.com
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Or just Pull Request on Github
