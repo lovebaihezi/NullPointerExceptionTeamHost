@@ -5,6 +5,12 @@ a {
     text-decoration: none;
 }
 
+html,
+body {
+    overflow: hidden;
+    transition: all 0.2s linear;
+}
+
 .App {
     text-align: center;
 }
